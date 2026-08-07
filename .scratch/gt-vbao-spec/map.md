@@ -4,6 +4,8 @@ Label: `wayfinder:map`
 
 **Map status: complete**（2026-08-07，SPEC 已落盘，见 Decisions 票 05；Quality 表 TBD 由票 04 补入，不重新开图）
 
+**GitHub 镜像**（2026-08-07）：地图与实现票已发布到 github.com/ioOvOoi/GT-VBAO —— 地图 issue #1；实现票 #2–#8（T1 无 blocker → T7 收尾，编号即依赖）。本地文件留档，后续状态以 GitHub 为准。
+
 ## Destination
 
 一份可交接的实现 Spec：`docs/SPEC.md`。读完后任意实现会话能按清单交付 **UE 5.7 纯 Plugin**，功能完成度对齐 [HBAOPlus](http://39.170.56.176:3680/publicgroup/HBAOPlus)（双 Mode、关内置 SSAO、滤波/时域/CVar/Debug/README 等），算法仅用开源移植，不抄闭源。
